@@ -366,12 +366,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Stack Overflow** - Technical questions with `swiftui` tag
 - **Apple Developer Forums** - SwiftUI-specific discussions
 
-### Portfolio Owner
-- **Email** - your.email@example.com
-- **LinkedIn** - linkedin.com/in/yourprofile
-- **GitHub** - github.com/yourusername
-- **Twitter** - @yourusername
-
 ---
 
 **Built with ❤️ using SwiftUI**
