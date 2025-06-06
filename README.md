@@ -67,13 +67,13 @@ A stunning iOS portfolio application built with SwiftUI that demonstrates modern
 ### Quick Start
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/swiftui-portfolio.git
-cd swiftui-portfolio
+git clone https://github.com/Vlad-tdk/3DPortfolioInteractiveApp.git
+cd 3DPortfolioInteractiveApp
 ```
 
 2. **Open in Xcode**
 ```bash
-open PortfolioApp.xcodeproj
+open 3DInteractiveApp.xcodeproj
 ```
 
 3. **Select target device**
